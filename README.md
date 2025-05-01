@@ -30,14 +30,6 @@ Cada desafio resolvido estará em sua própria pasta dentro deste repositório, 
     java NomeDoDesafio
     ```
 
-## Desafios Resolvidos
-
-Aqui está a lista dos desafios do Criascript ("Desafiando Devs") que já foram resolvidos neste repositório (esta lista será atualizada conforme novos desafios forem sendo implementados):
-
-* [Link para o vídeo do Desafio 1] - Breve descrição do Desafio 1
-* [Link para o vídeo do Desafio 2] - Breve descrição do Desafio 2
-* ... e assim por diante.
-
 ## Próximos Passos
 
 * Continuar resolvendo os desafios do quadro "Desafiando Devs" conforme forem sendo lançados.
@@ -46,8 +38,7 @@ Aqui está a lista dos desafios do Criascript ("Desafiando Devs") que já foram 
 * Documentar cada desafio com mais detalhes no README específico de cada pasta.
 
 ## Autor
-
-Gustavo (Seu Nome)
+Gustavo Rocha
 
 ## Links Úteis
 
